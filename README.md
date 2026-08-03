@@ -1,2 +1,2 @@
-# bountybank
-Airdrops &amp; Bounty
+# firstProject
+read this string
